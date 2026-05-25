@@ -1,6 +1,14 @@
 /** @type {import('next').NextConfig} */
+
+const repo = "game-manager";
+
 const nextConfig = {
-  /* config options here */
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
+  basePath: `/${repo}`,
+  assetPrefix: `/${repo}/`,
 };
 
 export default nextConfig;
