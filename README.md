@@ -3,7 +3,7 @@
 Um jogo simples de RPG em desenvolvimento, focado em batalhas por turnos e personagens estilizados.
 
 
-[![Play Game](https://img.shields.io/badge/PLAY-DEMO-brightgreen)](https://game-manager-six.vercel.app/)
+**[Jogar Game Manager](https://game-manager-six.vercel.app/)**
 
 
 ### 🎮 Sobre o projeto
