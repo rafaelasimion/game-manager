@@ -2,7 +2,9 @@ const repo = "game-manager";
 
 const nextConfig = {
   output: "export",
-  images: { unoptimized: true },
+  images: {
+    unoptimized: true,
+  },
   basePath: `/${repo}`,
   assetPrefix: `/${repo}/`,
   trailingSlash: true,
