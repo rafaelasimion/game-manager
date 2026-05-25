@@ -5,8 +5,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: `/${repo}`,
-  assetPrefix: `/${repo}/`,
   trailingSlash: true,
 };
 
